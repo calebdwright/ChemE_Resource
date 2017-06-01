@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">EoS Solver</string>
+    <string name="temp">Temperature</string>
+    <string name="press">Pressure</string>
+    <string name="species">Species Lookup</string>
+    <string name="Tc">Tc</string>
+    <string name="Pc">Pc</string>
+    <string name="afactor">Acentric Factor</string>
+    <string-array name="t_units">
+        <item>K</item>
+        <item>\u2103</item>
+        <item>\u2109</item>
+    </string-array>
+    <string-array name="p_units">
+        <item>MPa</item>
+        <item>kPa</item>
+        <item>Pa</item>
+        <item>psi</item>
+    </string-array>
+    <string name="volume">Molar V</string>
+    <string name="density">Molar \u03C1</string>
+    <string-array name="volume_units">
+        <item>m^3/mol</item>
+        <item>L/mol</item>
+        <item>cm^3/mol</item>
+    </string-array>
+    <string-array name="density_units">
+        <item>mol/m^3</item>
+        <item>mol/L</item>
+        <item>mol/cm^3</item>
+    </string-array>
+    <string-array name="equations">
+        <item>IGL</item>
+        <item>VDW</item>
+        <item>PR</item>
+        <item>SRK</item>
+    </string-array>
+    <string-array name="species_list">
+        <item>Hydrogen gas</item>
+        <item>Helium</item>
+    </string-array>
+</resources>
